@@ -1,11 +1,11 @@
-## 📊 Online Course Platform – SQL Data Analysis Project 
+📊 Online Course Platform – SQL Data Analysis Project 
 📌 Project Overview
 
 This project analyzes learner purchasing behavior for an online course platform using SQL. The goal is to explore relationships between learners, courses, and purchases to generate meaningful business insights.
 
 The analysis focuses on revenue trends, course performance, and learner engagement patterns.
 
-🗂 Database Structure
+# 🗂 Database Structure
 
 The project uses three main tables:
 

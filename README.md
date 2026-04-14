@@ -31,6 +31,14 @@ The project uses three main tables:
 4. List learners who purchased courses from more than one category.
 5. Identify courses that have not been purchased at all.
 
+## Screen shorts
+<img width="972" height="497" alt="image" src="https://github.com/user-attachments/assets/83e43892-1db9-4305-90aa-e99d023cba52" />
+<img width="967" height="391" alt="image" src="https://github.com/user-attachments/assets/d1b5eb61-4296-48e5-bd2a-5880d23bf02e" />
+<img width="988" height="458" alt="image" src="https://github.com/user-attachments/assets/18754320-a302-4b5e-8cdb-2b42eec80a46" />
+<img width="1028" height="396" alt="image" src="https://github.com/user-attachments/assets/bff9db7d-a12e-45a1-a626-82a56428717c" />
+<img width="996" height="320" alt="image" src="https://github.com/user-attachments/assets/30b5e999-433c-4972-890e-cee984ec4ed5" />
+<img width="946" height="407" alt="image" src="https://github.com/user-attachments/assets/0878a88b-48cc-4276-9ce5-8d73de0120df" />
+<img width="1015" height="643" alt="image" src="https://github.com/user-attachments/assets/2a051f27-d91f-4821-a884-5729b560ecd6" />
 ## 📊 Key Insights
 
 * Revenue is concentrated in a small number of high-performing courses and categories.
